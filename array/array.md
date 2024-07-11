@@ -29,7 +29,7 @@ Changing the value of an existing element in the array.
 
 ## Example Code
 ### Array Declaration and Initialization
-In most programming languages, arrays can be declared and initialized as follows:
+In javascript programming languages, arrays can be declared and initialized as follows:
 
 #### Javascript
 ```javascript
