@@ -31,10 +31,13 @@ Changing the value of an existing element in the array.
 ### Array Declaration and Initialization
 In most programming languages, arrays can be declared and initialized as follows:
 
-#### Python
-```python
-# Declaration and initialization
-arr = [1, 2, 3, 4, 5]
+#### Javascript
+```javascript
 
-# Accessing elements
-print(arr[0])  # Output: 1
+// Declaration and initialization
+let arr = [1, 2, 3, 4, 5];
+
+// Accessing elements
+console.log(arr[0]);  // Output: 1
+
+```
