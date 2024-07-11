@@ -17,7 +17,7 @@ Welcome to the **Data Structures and Algorithms** repository! This collection fe
 - [License](#license)
 - [Contact](#contact)
 
-## [About](https://github.com/fatpoki/Data-structure/array)
+## [About](#array)
 This repository is intended to serve as a comprehensive resource for understanding and implementing various data structures and algorithms. Each entry includes:
 - Detailed explanations
 - Step-by-step implementation guides
