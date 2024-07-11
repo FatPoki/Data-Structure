@@ -75,8 +75,14 @@ Contributing
 Contributions are welcome! If you have any improvements, additional data structures, or algorithms to add, please feel free to submit a pull request. Follow these steps:
 
 -Fork the repository
+
 -Create a new branch (git checkout -b feature-branch)
+
 -Make your changes
+
 -Commit your changes (git commit -am 'Add new feature')
+
 -Push to the branch (git push origin feature-branch)
+
 -Create a new Pull Request
+
